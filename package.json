@@ -1,0 +1,24 @@
+{
+  "name": "oop-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristeaandrei95/OOP-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristeaandrei95/OOP-example/issues"
+  },
+  "homepage": "https://github.com/cristeaandrei95/OOP-example#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}

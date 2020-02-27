@@ -1,6 +1,6 @@
 import {Vehicle} from './vehicle';
 
-export class car extends Vehicle {
+export class Car extends Vehicle {
     constructor(license, model, latLong) {
         super(license, model, latLong);
         this.miles = null;
